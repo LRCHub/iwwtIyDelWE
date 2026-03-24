@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "いつまでたっても",
+  "base_artist": "nyamura",
+  "createdAt": "2026-03-24T10:18:59.750913Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "いつまでたっても",
+      "artist": "GOING UNDER GROUND",
+      "has_synced": false,
+      "path": "select/01_いつまでたっても_GOING_UNDER_GROUND.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "いつまでたっても",
+      "artist": "nyamura",
+      "has_synced": false,
+      "path": "select/pl_01_いつまでたっても_nyamura.txt"
+    }
+  ]
+}
